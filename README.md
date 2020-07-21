@@ -7,7 +7,7 @@
 I'm Daniel Obara, I'm a Full Stack developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
 
 - 🔭 I’m currently working on JavaScript and Ruby apps/systems
-- 🌱 I’m currently learning IA,Ruby,DevOps and of course JS improvments
+- 🌱 I’m currently learning IA,DevOps and of course JS improvments
 - 💬 Ask me about: tech, karate, anime and a little bit about investments.
 -  ⚡ Technologies: React, Node, Adonis, React-Native
 
