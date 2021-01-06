@@ -12,3 +12,13 @@ I'm Daniel Obara, I'm a Full Stack developer 👨‍💻 who is passionate about
 -  ⚡ Technologies: React, Node, Adonis, React-Native
 
 "Do not expect from others what you expect of yourself." 
+
+<p align="center">
+  <a href="https://github.com/DanielObara/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=DanielObara&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical"
+    />
+  </a>
+</p>
