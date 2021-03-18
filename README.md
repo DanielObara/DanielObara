@@ -8,7 +8,7 @@ I'm Daniel Obara, I'm a Full Stack developer 👨‍💻 who is passionate about
 - 🔭 I’m currently working on JavaScript apps/systems
 - 🌱 I’m currently learning NestJS,DevOps and of course JS improvements
 - 💬 Ask me about: tech, karate, anime and a little bit about investments.
--  ⚡ Technologies: React, Node, Adonis, React-Native
+-  ⚡ Technologies: React, Node, React-Native
 
 "Do not expect from others what you expect of yourself." 
 
