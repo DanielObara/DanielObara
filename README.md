@@ -14,17 +14,15 @@ I'm Daniel Obara, I'm a Full Stack developer 👨‍💻 who is passionate about
 
 "Do not expect from others what you expect of yourself." 
 
-<p align="justify">
+<p align="center space-between">
   <a href="https://github.com/DanielObara/github-readme-stats">
     <img
-      align="justify"
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=DanielObara&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
     />
   </a>
    <a href="https://github.com/DanielObara/github-readme-stats">
     <img
-      align="auto"
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielObara&layout=compact&theme=radical" />
   </a>  
