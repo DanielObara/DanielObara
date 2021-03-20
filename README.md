@@ -14,7 +14,7 @@ I'm Daniel Obara, I'm a Full Stack developer 👨‍💻 who is passionate about
 
 "Do not expect from others what you expect of yourself." 
 
-<p align="center space-between">
+<p align="justify">
   <a href="https://github.com/DanielObara/github-readme-stats">
     <img
       height="150"
