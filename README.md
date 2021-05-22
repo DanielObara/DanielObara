@@ -12,7 +12,7 @@ I'm Daniel Obara, I'm a Full Stack developer 👨‍💻 who is passionate about
 - 💬 Ask me about: tech, karate, anime and a little bit about investments.
 -  ⚡ Technologies: React, Node, React-Native
 
-"Do not expect from others what you expect of yourself." 
+"Do not expect from others wht you expect of yourself." 
 
 <p align="justify">
   <a href="https://github.com/DanielObara/github-readme-stats">
