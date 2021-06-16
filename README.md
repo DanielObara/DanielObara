@@ -8,7 +8,7 @@
 I'm Daniel Obara, I'm a Full Stack developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
 
 - 🔭 I’m currently working on JavaScript apps/systems
-- 🌱 I’m currently learning NestJS, AWS and of course JS improvements
+- 🌱 I’m currently learning NestJS, ObjectionJS, AWS and of course JS improvements
 - 💬 Ask me about: tech, karate, anime and a little bit about investments.
 -  ⚡ Technologies: React, Node, React-Native, Sequelize, Typeorm, Express, Redux, Storybook.
 
